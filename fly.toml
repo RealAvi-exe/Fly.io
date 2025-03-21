@@ -1,7 +1,0 @@
-app = "discord-economy-bot"
-[build]
-  dockerfile = "./Dockerfile"
-[env]
-  NODE_ENV = "production"
-[experimental]
-  auto_rollback = true
